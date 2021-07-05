@@ -1,1 +1,1 @@
-# bioinfo-lecture-2021-07
+# python 1st week
